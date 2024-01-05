@@ -1,7 +1,8 @@
 repo_name: prettyleka/Python-programming-exercises
 report_id: 72abcb251c7a2a66960f7841ad045521
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:32:19+00:00'
+timestamp: '2024-01-05T08:51:46+00:00'
 requested_by: zhiwehu
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/Python-programming-exercises
   detection_source: Repo Metadata
